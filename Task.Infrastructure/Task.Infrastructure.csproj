@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="ExternalServices\BookingService\" />
+    <Folder Include="ExternalServices\CustomerService\" />
+    <Folder Include="ExternalServices\AIService\" />
+    <Folder Include="ExternalServices\Maps\" />
+    <Folder Include="ExternalServices\NotificationService\" />
+    <Folder Include="Configurations\" />
+    <Folder Include="DependencyInjection\" />
+    <Folder Include="Cache\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
+</Project>
