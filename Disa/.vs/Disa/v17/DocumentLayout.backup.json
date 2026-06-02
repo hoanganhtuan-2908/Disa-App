@@ -3,7 +3,20 @@
   "WorkspaceRootPath": "D:\\EXE101\\Disa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6F5EA77-B279-4090-AADF-8147AF2131E3}|..\\AITour.Domain\\AITour.Domain.csproj|d:\\exe101\\aitour.domain\\aitour.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{493B9555-A211-4EBC-A7C7-1C3A92FB941F}|Disa.csproj|d:\\exe101\\disa\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493B9555-A211-4EBC-A7C7-1C3A92FB941F}|Disa.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9843B25-F943-4318-B4E0-26EC7627B578}|..\\AITour.Presentation\\AITour.Presentation.csproj|d:\\exe101\\aitour.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9843B25-F943-4318-B4E0-26EC7627B578}|..\\AITour.Presentation\\AITour.Presentation.csproj|d:\\exe101\\aitour.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9843B25-F943-4318-B4E0-26EC7627B578}|..\\AITour.Presentation\\AITour.Presentation.csproj|d:\\exe101\\aitour.presentation\\aitour.presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572C706D-E527-4009-B4B5-2AEFD8B883B9}|..\\EventBus\\EventBus.csproj|d:\\exe101\\eventbus\\eventbus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,14 +31,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AITour.Domain",
-              "DocumentMoniker": "D:\\EXE101\\AITour.Domain\\AITour.Domain.csproj",
-              "RelativeDocumentMoniker": "..\\AITour.Domain\\AITour.Domain.csproj",
-              "ToolTip": "D:\\EXE101\\AITour.Domain\\AITour.Domain.csproj",
-              "RelativeToolTip": "..\\AITour.Domain\\AITour.Domain.csproj",
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\EXE101\\Disa\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\EXE101\\Disa\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:14:14.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EXE101\\AITour.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AITour.Presentation\\Program.cs",
+              "ToolTip": "D:\\EXE101\\AITour.Presentation\\Program.cs",
+              "RelativeToolTip": "..\\AITour.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:13:40.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EXE101\\AITour.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\AITour.Presentation\\appsettings.json",
+              "ToolTip": "D:\\EXE101\\AITour.Presentation\\appsettings.json",
+              "RelativeToolTip": "..\\AITour.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-02T08:13:34.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AITour.Presentation.http",
+              "DocumentMoniker": "D:\\EXE101\\AITour.Presentation\\AITour.Presentation.http",
+              "RelativeDocumentMoniker": "..\\AITour.Presentation\\AITour.Presentation.http",
+              "ToolTip": "D:\\EXE101\\AITour.Presentation\\AITour.Presentation.http",
+              "RelativeToolTip": "..\\AITour.Presentation\\AITour.Presentation.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-02T08:12:45.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventBus",
+              "DocumentMoniker": "D:\\EXE101\\EventBus\\EventBus.csproj",
+              "RelativeDocumentMoniker": "..\\EventBus\\EventBus.csproj",
+              "ToolTip": "D:\\EXE101\\EventBus\\EventBus.csproj",
+              "RelativeToolTip": "..\\EventBus\\EventBus.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-01T09:44:53.397Z",
+              "WhenOpened": "2026-06-02T08:10:18.285Z",
               "EditorCaption": ""
             }
           ]
