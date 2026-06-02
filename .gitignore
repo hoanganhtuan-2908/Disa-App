@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build output
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# NuGet
+packages/
