@@ -5,9 +5,6 @@ GO
 USE IAMDb;
 GO
 
--- =========================
--- USERS
--- =========================
 CREATE TABLE Users
 (
     Id UNIQUEIDENTIFIER NOT NULL PRIMARY KEY DEFAULT NEWID(),
@@ -26,9 +23,6 @@ CREATE TABLE Users
 );
 GO
 
--- =========================
--- ROLES
--- =========================
 CREATE TABLE Roles
 (
     Id UNIQUEIDENTIFIER NOT NULL PRIMARY KEY DEFAULT NEWID(),
@@ -39,9 +33,6 @@ CREATE TABLE Roles
 );
 GO
 
--- =========================
--- USER ROLES
--- =========================
 CREATE TABLE UserRoles
 (
     UserId UNIQUEIDENTIFIER NOT NULL,
@@ -63,9 +54,7 @@ CREATE TABLE UserRoles
 );
 GO
 
--- =========================
--- REFRESH TOKENS
--- =========================
+
 CREATE TABLE RefreshTokens
 (
     Id UNIQUEIDENTIFIER NOT NULL PRIMARY KEY DEFAULT NEWID(),
@@ -87,9 +76,6 @@ CREATE TABLE RefreshTokens
 );
 GO
 
--- =========================
--- INDEXES
--- =========================
 CREATE INDEX IX_Users_Email
 ON Users(Email);
 
@@ -100,9 +86,6 @@ CREATE INDEX IX_RefreshTokens_UserId
 ON RefreshTokens(UserId);
 GO
 
--- =========================
--- SEED ROLES
--- =========================
 INSERT INTO Roles (Name, Description)
 VALUES
 ('Admin', 'System Administrator'),
@@ -110,8 +93,37 @@ VALUES
 ('Customer', 'Customer User');
 GO
 
--- =========================
--- XEM DỮ LIỆU
--- =========================
+
 SELECT * FROM Roles;
 GO
+SELECT * FROM Users
+CREATE TABLE Permissions
+(
+    Id UNIQUEIDENTIFIER NOT NULL PRIMARY KEY DEFAULT NEWID(),
+    Code NVARCHAR(100) NOT NULL UNIQUE,
+    Description NVARCHAR(255) NULL
+);
+CREATE TABLE RolePermissions
+(
+    RoleId UNIQUEIDENTIFIER NOT NULL,
+    PermissionId UNIQUEIDENTIFIER NOT NULL,
+
+    CONSTRAINT PK_RolePermissions PRIMARY KEY (RoleId, PermissionId),
+
+    CONSTRAINT FK_RolePermissions_Roles
+        FOREIGN KEY (RoleId) REFERENCES Roles(Id) ON DELETE CASCADE,
+
+    CONSTRAINT FK_RolePermissions_Permissions
+        FOREIGN KEY (PermissionId) REFERENCES Permissions(Id) ON DELETE CASCADE
+);
+CREATE TABLE RoleDeniedPermissions
+(
+    RoleId UNIQUEIDENTIFIER NOT NULL,
+    PermissionId UNIQUEIDENTIFIER NOT NULL,
+
+    PRIMARY KEY (RoleId, PermissionId),
+    FOREIGN KEY (RoleId) REFERENCES Roles(Id),
+    FOREIGN KEY (PermissionId) REFERENCES Permissions(Id)
+);
+
+SELECT * FROM Users;

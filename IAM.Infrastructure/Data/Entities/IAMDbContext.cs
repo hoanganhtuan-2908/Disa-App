@@ -1,6 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using System.Security;
 
 namespace IAM.Infrastructure.Data.Entities;
 
@@ -15,66 +14,53 @@ public partial class IAMDbContext : DbContext
     {
     }
 
-    public virtual DbSet<RefreshToken> RefreshTokens { get; set; }
-
+    public virtual DbSet<User> Users { get; set; }
     public virtual DbSet<Role> Roles { get; set; }
 
-    public virtual DbSet<User> Users { get; set; }
+    public virtual DbSet<RefreshToken> RefreshTokens { get; set; }
+
+    public virtual DbSet<Permission> Permissions { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<RefreshToken>(entity =>
-        {
-            entity.HasKey(e => e.Id).HasName("PK__RefreshT__3214EC0769DA9467");
-
-            entity.HasIndex(e => e.UserId, "IX_RefreshTokens_UserId");
-
-            entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
-            entity.Property(e => e.CreatedAt).HasDefaultValueSql("(getdate())");
-
-            entity.HasOne(d => d.User).WithMany(p => p.RefreshTokens)
-                .HasForeignKey(d => d.UserId)
-                .HasConstraintName("FK_RefreshTokens_Users");
-        });
-
-        modelBuilder.Entity<Role>(entity =>
-        {
-            entity.HasKey(e => e.Id).HasName("PK__Roles__3214EC074715326D");
-
-            entity.HasIndex(e => e.Name, "UQ__Roles__737584F6DF2A4A13").IsUnique();
-
-            entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
-            entity.Property(e => e.Description).HasMaxLength(255);
-            entity.Property(e => e.Name).HasMaxLength(50);
-        });
+        base.OnModelCreating(modelBuilder);
 
         modelBuilder.Entity<User>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Users__3214EC079EDDAF83");
+            entity.HasKey(e => e.Id);
 
-            entity.HasIndex(e => e.Email, "IX_Users_Email");
+            entity.Property(e => e.Id)
+                .HasDefaultValueSql("(newid())");
 
-            entity.HasIndex(e => e.Username, "IX_Users_Username");
+            entity.Property(e => e.Username)
+                .HasMaxLength(100)
+                .IsRequired();
 
-            entity.HasIndex(e => e.Username, "UQ__Users__536C85E4FAFEF7CB").IsUnique();
+            entity.Property(e => e.Email)
+                .HasMaxLength(255)
+                .IsRequired();
 
-            entity.HasIndex(e => e.Email, "UQ__Users__A9D10534FAE34EC5").IsUnique();
+            entity.Property(e => e.IsActive)
+                .HasDefaultValue(true);
 
-            entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
-            entity.Property(e => e.CreatedAt).HasDefaultValueSql("(getdate())");
-            entity.Property(e => e.Email).HasMaxLength(255);
-            entity.Property(e => e.IsActive).HasDefaultValue(true);
-            entity.Property(e => e.Username).HasMaxLength(100);
+            entity.Property(e => e.CreatedAt)
+                .HasDefaultValueSql("(getdate())");
 
-            entity.HasMany(d => d.Roles).WithMany(p => p.Users)
+            entity.HasIndex(e => e.Email).IsUnique();
+            entity.HasIndex(e => e.Username).IsUnique();
+
+            entity.HasMany(u => u.Roles)
+                .WithMany(r => r.Users)
                 .UsingEntity<Dictionary<string, object>>(
-                    "UserRole",
-                    r => r.HasOne<Role>().WithMany()
+                    "UserRoles",
+                    j => j.HasOne<Role>()
+                        .WithMany()
                         .HasForeignKey("RoleId")
-                        .HasConstraintName("FK_UserRoles_Roles"),
-                    l => l.HasOne<User>().WithMany()
+                        .OnDelete(DeleteBehavior.Cascade),
+                    j => j.HasOne<User>()
+                        .WithMany()
                         .HasForeignKey("UserId")
-                        .HasConstraintName("FK_UserRoles_Users"),
+                        .OnDelete(DeleteBehavior.Cascade),
                     j =>
                     {
                         j.HasKey("UserId", "RoleId");
@@ -82,8 +68,77 @@ public partial class IAMDbContext : DbContext
                     });
         });
 
-        OnModelCreatingPartial(modelBuilder);
-    }
+        modelBuilder.Entity<Role>(entity =>
+        {
+            entity.HasKey(e => e.Id);
 
-    partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+            entity.Property(e => e.Id)
+                .HasDefaultValueSql("(newid())");
+
+            entity.Property(e => e.Name)
+                .HasMaxLength(50)
+                .IsRequired();
+
+            entity.Property(e => e.Description)
+                .HasMaxLength(255);
+
+            entity.HasIndex(e => e.Name).IsUnique();
+
+            entity.HasMany(r => r.Permissions)
+                .WithMany(p => p.Roles)
+                .UsingEntity<Dictionary<string, object>>(
+                    "RolePermissions",
+                    j => j.HasOne<Permission>()
+                        .WithMany()
+                        .HasForeignKey("PermissionId")
+                        .OnDelete(DeleteBehavior.Cascade),
+                    j => j.HasOne<Role>()
+                        .WithMany()
+                        .HasForeignKey("RoleId")
+                        .OnDelete(DeleteBehavior.Cascade),
+                    j =>
+                    {
+                        j.HasKey("RoleId", "PermissionId");
+                        j.ToTable("RolePermissions");
+                    });
+        });
+
+        modelBuilder.Entity<Permission>(entity =>
+        {
+            entity.HasKey(e => e.Id);
+
+            entity.Property(e => e.Id)
+                .HasDefaultValueSql("(newid())");
+
+            entity.Property(e => e.Code)
+                .HasMaxLength(100)
+                .IsRequired();
+
+            entity.Property(e => e.Description)
+                .HasMaxLength(255);
+
+            entity.HasIndex(e => e.Code).IsUnique();
+        });
+
+        modelBuilder.Entity<RefreshToken>(entity =>
+        {
+            entity.HasKey(e => e.Id);
+
+            entity.Property(e => e.Id)
+                .HasDefaultValueSql("(newid())");
+
+            entity.Property(e => e.Token)
+                .IsRequired();
+
+            entity.Property(e => e.CreatedAt)
+                .HasDefaultValueSql("(getdate())");
+
+            entity.HasOne(rt => rt.User)
+                .WithMany(u => u.RefreshTokens)
+                .HasForeignKey(rt => rt.UserId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            entity.HasIndex(e => e.UserId);
+        });
+    }
 }
