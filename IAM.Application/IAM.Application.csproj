@@ -7,12 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\" />
     <Folder Include="Mappings\" />
     <Folder Include="Validators\" />
     <Folder Include="Services\" />
     <Folder Include="Responses\" />
     <Folder Include="Requests\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IAM.Domain\IAM.Domain.csproj" />
+    <ProjectReference Include="..\IAM.Infrastructure\IAM.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

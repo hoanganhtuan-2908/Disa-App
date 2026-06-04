@@ -1,4 +1,12 @@
 
+using IAM.Application.Interfaces;
+using IAM.Infrastructure.Data.Entities;
+using IAM.Infrastructure.Repositories;
+using IAM.Infrastructure.Security;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+
+
 namespace IAMService
 {
     public class Program
@@ -13,6 +21,13 @@ namespace IAMService
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddDbContext<IAMDbContext>(options =>
+            {
+                options.UseSqlServer(
+                    builder.Configuration.GetConnectionString("IAMDb"));
+            });
+            builder.Services.AddScoped<BCryptPassworkHasher>();
+            builder.Services.AddScoped<JwtTokenGenerator>();
 
             var app = builder.Build();
 
