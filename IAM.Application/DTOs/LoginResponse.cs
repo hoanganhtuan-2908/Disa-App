@@ -8,7 +8,7 @@ namespace IAM.Application.DTOs.Response;
 
 public class LoginResponse
 {
-    public string AccessToken { get; set; } = string.Empty;
+    public string AccessToken { get; set; } = null!;
 
-    public string RefreshToken { get; set; } = string.Empty;
+    public string RefreshToken { get; set; } = null!;
 }
