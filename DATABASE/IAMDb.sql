@@ -125,5 +125,17 @@ CREATE TABLE RoleDeniedPermissions
     FOREIGN KEY (RoleId) REFERENCES Roles(Id),
     FOREIGN KEY (PermissionId) REFERENCES Permissions(Id)
 );
+CREATE TABLE PasswordResetTokens
+(
+    Id UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
 
+    UserId UNIQUEIDENTIFIER NOT NULL,
+
+    Token NVARCHAR(200) NOT NULL,
+
+    ExpiresAt DATETIME2 NOT NULL,
+
+    IsUsed BIT NOT NULL DEFAULT 0
+)
+SELECT * FROM Roles;
 SELECT * FROM Users;

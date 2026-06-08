@@ -21,6 +21,8 @@ public partial class IAMDbContext : DbContext
 
     public virtual DbSet<Permission> Permissions { get; set; }
 
+
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
