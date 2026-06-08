@@ -57,7 +57,7 @@ public class AuthService : IAuthService
         var user = await _context.Users
             .Include(x => x.Roles)
                 .ThenInclude(r => r.Permissions)
-            .FirstOrDefaultAsync(x => x.Email == request.Email);
+            .FirstOrDefaultAsync(x => x.Username == request.Username);
 
         if (user == null)
             throw new Exception("Invalid login");
