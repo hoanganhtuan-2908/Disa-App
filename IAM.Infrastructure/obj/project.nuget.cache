@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JQBth7AsDGo=",
+  "dgSpecHash": "1/kOkGcZnx8=",
   "success": true,
-  "projectFilePath": "D:\\EXE101\\IAM.Infrastructure\\IAM.Infrastructure.csproj",
+  "projectFilePath": "D:\\App\\Disa-App\\IAM.Infrastructure\\IAM.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HOANG ANH TUAN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\HOANG ANH TUAN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

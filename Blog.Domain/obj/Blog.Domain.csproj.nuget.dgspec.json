@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EXE101\\Blog.Domain\\Blog.Domain.csproj": {}
+    "D:\\App\\Disa-App\\Blog.Domain\\Blog.Domain.csproj": {}
   },
   "projects": {
-    "D:\\EXE101\\Blog.Domain\\Blog.Domain.csproj": {
+    "D:\\App\\Disa-App\\Blog.Domain\\Blog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EXE101\\Blog.Domain\\Blog.Domain.csproj",
+        "projectUniqueName": "D:\\App\\Disa-App\\Blog.Domain\\Blog.Domain.csproj",
         "projectName": "Blog.Domain",
-        "projectPath": "D:\\EXE101\\Blog.Domain\\Blog.Domain.csproj",
+        "projectPath": "D:\\App\\Disa-App\\Blog.Domain\\Blog.Domain.csproj",
         "packagesPath": "C:\\Users\\HOANG ANH TUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\EXE101\\Blog.Domain\\obj\\",
+        "outputPath": "D:\\App\\Disa-App\\Blog.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EXE101\\Customer.Infrastructure\\Customer.Infrastructure.csproj": {}
+    "D:\\App\\Disa-App\\Customer.Infrastructure\\Customer.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\EXE101\\Customer.Infrastructure\\Customer.Infrastructure.csproj": {
+    "D:\\App\\Disa-App\\Customer.Infrastructure\\Customer.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EXE101\\Customer.Infrastructure\\Customer.Infrastructure.csproj",
+        "projectUniqueName": "D:\\App\\Disa-App\\Customer.Infrastructure\\Customer.Infrastructure.csproj",
         "projectName": "Customer.Infrastructure",
-        "projectPath": "D:\\EXE101\\Customer.Infrastructure\\Customer.Infrastructure.csproj",
+        "projectPath": "D:\\App\\Disa-App\\Customer.Infrastructure\\Customer.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\HOANG ANH TUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\EXE101\\Customer.Infrastructure\\obj\\",
+        "outputPath": "D:\\App\\Disa-App\\Customer.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

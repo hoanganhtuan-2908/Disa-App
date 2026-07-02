@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EXE101\\IAM.Application\\IAM.Application.csproj": {}
+    "D:\\App\\Disa-App\\IAM.Application\\IAM.Application.csproj": {}
   },
   "projects": {
-    "D:\\EXE101\\IAM.Application\\IAM.Application.csproj": {
+    "D:\\App\\Disa-App\\IAM.Application\\IAM.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EXE101\\IAM.Application\\IAM.Application.csproj",
+        "projectUniqueName": "D:\\App\\Disa-App\\IAM.Application\\IAM.Application.csproj",
         "projectName": "IAM.Application",
-        "projectPath": "D:\\EXE101\\IAM.Application\\IAM.Application.csproj",
+        "projectPath": "D:\\App\\Disa-App\\IAM.Application\\IAM.Application.csproj",
         "packagesPath": "C:\\Users\\HOANG ANH TUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\EXE101\\IAM.Application\\obj\\",
+        "outputPath": "D:\\App\\Disa-App\\IAM.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\EXE101\\IAM.Domain\\IAM.Domain.csproj": {
-                "projectPath": "D:\\EXE101\\IAM.Domain\\IAM.Domain.csproj"
+              "D:\\App\\Disa-App\\IAM.Domain\\IAM.Domain.csproj": {
+                "projectPath": "D:\\App\\Disa-App\\IAM.Domain\\IAM.Domain.csproj"
               },
-              "D:\\EXE101\\IAM.Infrastructure\\IAM.Infrastructure.csproj": {
-                "projectPath": "D:\\EXE101\\IAM.Infrastructure\\IAM.Infrastructure.csproj"
+              "D:\\App\\Disa-App\\IAM.Infrastructure\\IAM.Infrastructure.csproj": {
+                "projectPath": "D:\\App\\Disa-App\\IAM.Infrastructure\\IAM.Infrastructure.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\EXE101\\IAM.Domain\\IAM.Domain.csproj": {
+    "D:\\App\\Disa-App\\IAM.Domain\\IAM.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EXE101\\IAM.Domain\\IAM.Domain.csproj",
+        "projectUniqueName": "D:\\App\\Disa-App\\IAM.Domain\\IAM.Domain.csproj",
         "projectName": "IAM.Domain",
-        "projectPath": "D:\\EXE101\\IAM.Domain\\IAM.Domain.csproj",
+        "projectPath": "D:\\App\\Disa-App\\IAM.Domain\\IAM.Domain.csproj",
         "packagesPath": "C:\\Users\\HOANG ANH TUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\EXE101\\IAM.Domain\\obj\\",
+        "outputPath": "D:\\App\\Disa-App\\IAM.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -141,14 +141,14 @@
         }
       }
     },
-    "D:\\EXE101\\IAM.Infrastructure\\IAM.Infrastructure.csproj": {
+    "D:\\App\\Disa-App\\IAM.Infrastructure\\IAM.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EXE101\\IAM.Infrastructure\\IAM.Infrastructure.csproj",
+        "projectUniqueName": "D:\\App\\Disa-App\\IAM.Infrastructure\\IAM.Infrastructure.csproj",
         "projectName": "IAM.Infrastructure",
-        "projectPath": "D:\\EXE101\\IAM.Infrastructure\\IAM.Infrastructure.csproj",
+        "projectPath": "D:\\App\\Disa-App\\IAM.Infrastructure\\IAM.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\HOANG ANH TUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\EXE101\\IAM.Infrastructure\\obj\\",
+        "outputPath": "D:\\App\\Disa-App\\IAM.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

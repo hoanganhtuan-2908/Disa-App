@@ -3,76 +3,34 @@
   "WorkspaceRootPath": "D:\\App\\Disa-App\\Disa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDF6B251-047C-4137-93C8-FE4205EC7DED}|..\\Task.Presentation\\Task.Presentation.csproj|d:\\app\\disa-app\\task.presentation\\controllers\\missiontemplatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EDF6B251-047C-4137-93C8-FE4205EC7DED}|..\\Task.Presentation\\Task.Presentation.csproj|d:\\app\\disa-app\\task.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24C52121-4B51-4B7B-A3E2-24B3FCD0135B}|..\\Task.Infrastructure\\Task.Infrastructure.csproj|d:\\app\\disa-app\\task.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDF6B251-047C-4137-93C8-FE4205EC7DED}|..\\Task.Presentation\\Task.Presentation.csproj|d:\\app\\disa-app\\task.presentation\\controllers\\missionsubmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F7DDBD3-D15A-44C7-8B04-F239EE9311B1}|..\\Task.Application\\Task.Application.csproj|d:\\app\\disa-app\\task.application\\services\\missiontemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F7DDBD3-D15A-44C7-8B04-F239EE9311B1}|..\\Task.Application\\Task.Application.csproj|d:\\app\\disa-app\\task.application\\interfaces\\imissiontemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24C52121-4B51-4B7B-A3E2-24B3FCD0135B}|..\\Task.Infrastructure\\Task.Infrastructure.csproj|d:\\app\\disa-app\\task.infrastructure\\repositories\\missiontemplaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24C52121-4B51-4B7B-A3E2-24B3FCD0135B}|..\\Task.Infrastructure\\Task.Infrastructure.csproj|d:\\app\\disa-app\\task.infrastructure\\persistence\\configurations\\missiontemplateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F7DDBD3-D15A-44C7-8B04-F239EE9311B1}|..\\Task.Application\\Task.Application.csproj|d:\\app\\disa-app\\task.application\\interfaces\\repositories\\imissiontemplaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24C52121-4B51-4B7B-A3E2-24B3FCD0135B}|..\\Task.Infrastructure\\Task.Infrastructure.csproj|d:\\app\\disa-app\\task.infrastructure\\persistence\\configurations\\usermissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F7DDBD3-D15A-44C7-8B04-F239EE9311B1}|..\\Task.Application\\Task.Application.csproj|d:\\app\\disa-app\\task.application\\dtos\\responses\\missiontemplateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F7DDBD3-D15A-44C7-8B04-F239EE9311B1}|..\\Task.Application\\Task.Application.csproj|d:\\app\\disa-app\\task.application\\dtos\\requests\\createmissiontemplaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24C52121-4B51-4B7B-A3E2-24B3FCD0135B}|..\\Task.Infrastructure\\Task.Infrastructure.csproj|d:\\app\\disa-app\\task.infrastructure\\persistence\\configurations\\missionevidenceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24C52121-4B51-4B7B-A3E2-24B3FCD0135B}|..\\Task.Infrastructure\\Task.Infrastructure.csproj|d:\\app\\disa-app\\task.infrastructure\\persistence\\configurations\\missionsubmissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F7DDBD3-D15A-44C7-8B04-F239EE9311B1}|..\\Task.Application\\Task.Application.csproj|d:\\app\\disa-app\\task.application\\interfaces\\repositories\\imissionsubmissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8542FB2-F07C-4C5B-8227-2B55E782C83F}|..\\Task.Domain\\Task.Domain.csproj|d:\\app\\disa-app\\task.domain\\entities\\missionevidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8542FB2-F07C-4C5B-8227-2B55E782C83F}|..\\Task.Domain\\Task.Domain.csproj|d:\\app\\disa-app\\task.domain\\entities\\missionsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8542FB2-F07C-4C5B-8227-2B55E782C83F}|..\\Task.Domain\\Task.Domain.csproj|d:\\app\\disa-app\\task.domain\\entities\\usermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDF6B251-047C-4137-93C8-FE4205EC7DED}|..\\Task.Presentation\\Task.Presentation.csproj|d:\\app\\disa-app\\task.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24C52121-4B51-4B7B-A3E2-24B3FCD0135B}|..\\Task.Infrastructure\\Task.Infrastructure.csproj|d:\\app\\disa-app\\task.infrastructure\\persistence\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8542FB2-F07C-4C5B-8227-2B55E782C83F}|..\\Task.Domain\\Task.Domain.csproj|d:\\app\\disa-app\\task.domain\\enums\\missiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F7DDBD3-D15A-44C7-8B04-F239EE9311B1}|..\\Task.Application\\Task.Application.csproj|d:\\app\\disa-app\\task.application\\services\\missionsubmissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8542FB2-F07C-4C5B-8227-2B55E782C83F}|..\\Task.Domain\\Task.Domain.csproj|d:\\app\\disa-app\\task.domain\\enums\\missionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8542FB2-F07C-4C5B-8227-2B55E782C83F}|..\\Task.Domain\\Task.Domain.csproj|d:\\app\\disa-app\\task.domain\\enums\\evidencetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24C52121-4B51-4B7B-A3E2-24B3FCD0135B}|..\\Task.Infrastructure\\Task.Infrastructure.csproj|d:\\app\\disa-app\\task.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8542FB2-F07C-4C5B-8227-2B55E782C83F}|..\\Task.Domain\\Task.Domain.csproj|d:\\app\\disa-app\\task.domain\\entities\\missiontemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24C52121-4B51-4B7B-A3E2-24B3FCD0135B}|..\\Task.Infrastructure\\Task.Infrastructure.csproj|d:\\app\\disa-app\\task.infrastructure\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8542FB2-F07C-4C5B-8227-2B55E782C83F}|..\\Task.Domain\\Task.Domain.csproj|d:\\app\\disa-app\\task.domain\\enums\\verificationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F7DDBD3-D15A-44C7-8B04-F239EE9311B1}|..\\Task.Application\\Task.Application.csproj|d:\\app\\disa-app\\task.application\\interfaces\\services\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7DDBD3-D15A-44C7-8B04-F239EE9311B1}|..\\Task.Application\\Task.Application.csproj|d:\\app\\disa-app\\task.application\\services\\missiontemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7DDBD3-D15A-44C7-8B04-F239EE9311B1}|..\\Task.Application\\Task.Application.csproj|d:\\app\\disa-app\\task.application\\interfaces\\services\\imissionsubmissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7DDBD3-D15A-44C7-8B04-F239EE9311B1}|..\\Task.Application\\Task.Application.csproj|d:\\app\\disa-app\\task.application\\interfaces\\repositories\\iusermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,318 +40,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MissionTemplateResponse.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Application\\DTOs\\Responses\\MissionTemplateResponse.cs",
-              "RelativeDocumentMoniker": "..\\Task.Application\\DTOs\\Responses\\MissionTemplateResponse.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Application\\DTOs\\Responses\\MissionTemplateResponse.cs",
-              "RelativeToolTip": "..\\Task.Application\\DTOs\\Responses\\MissionTemplateResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:47:11.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreateMissionTemplateRequest.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Application\\DTOs\\Requests\\CreateMissionTemplateRequest.cs",
-              "RelativeDocumentMoniker": "..\\Task.Application\\DTOs\\Requests\\CreateMissionTemplateRequest.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Application\\DTOs\\Requests\\CreateMissionTemplateRequest.cs",
-              "RelativeToolTip": "..\\Task.Application\\DTOs\\Requests\\CreateMissionTemplateRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:46:49.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MissionTemplateController.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Presentation\\Controllers\\MissionTemplateController.cs",
-              "RelativeDocumentMoniker": "..\\Task.Presentation\\Controllers\\MissionTemplateController.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Presentation\\Controllers\\MissionTemplateController.cs",
-              "RelativeToolTip": "..\\Task.Presentation\\Controllers\\MissionTemplateController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:46:28.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MissionTemplateRepository.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Infrastructure\\Repositories\\MissionTemplateRepository.cs",
-              "RelativeDocumentMoniker": "..\\Task.Infrastructure\\Repositories\\MissionTemplateRepository.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Infrastructure\\Repositories\\MissionTemplateRepository.cs*",
-              "RelativeToolTip": "..\\Task.Infrastructure\\Repositories\\MissionTemplateRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:45:52.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MissionTemplateService.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Application\\Services\\MissionTemplateService.cs",
-              "RelativeDocumentMoniker": "..\\Task.Application\\Services\\MissionTemplateService.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Application\\Services\\MissionTemplateService.cs",
-              "RelativeToolTip": "..\\Task.Application\\Services\\MissionTemplateService.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAkwF8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:45:25.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IMissionTemplateService.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Application\\Interfaces\\IMissionTemplateService.cs",
-              "RelativeDocumentMoniker": "..\\Task.Application\\Interfaces\\IMissionTemplateService.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Application\\Interfaces\\IMissionTemplateService.cs",
-              "RelativeToolTip": "..\\Task.Application\\Interfaces\\IMissionTemplateService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:45:11.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MissionEvidenceConfiguration.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Infrastructure\\Persistence\\Configurations\\MissionEvidenceConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\Task.Infrastructure\\Persistence\\Configurations\\MissionEvidenceConfiguration.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Infrastructure\\Persistence\\Configurations\\MissionEvidenceConfiguration.cs*",
-              "RelativeToolTip": "..\\Task.Infrastructure\\Persistence\\Configurations\\MissionEvidenceConfiguration.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:43:33.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MissionSubmissionConfiguration.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Infrastructure\\Persistence\\Configurations\\MissionSubmissionConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\Task.Infrastructure\\Persistence\\Configurations\\MissionSubmissionConfiguration.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Infrastructure\\Persistence\\Configurations\\MissionSubmissionConfiguration.cs",
-              "RelativeToolTip": "..\\Task.Infrastructure\\Persistence\\Configurations\\MissionSubmissionConfiguration.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:42:57.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IMissionSubmissionRepository.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Application\\Interfaces\\Repositories\\IMissionSubmissionRepository.cs",
-              "RelativeDocumentMoniker": "..\\Task.Application\\Interfaces\\Repositories\\IMissionSubmissionRepository.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Application\\Interfaces\\Repositories\\IMissionSubmissionRepository.cs*",
-              "RelativeToolTip": "..\\Task.Application\\Interfaces\\Repositories\\IMissionSubmissionRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:40:01.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IMissionTemplateRepository.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Application\\Interfaces\\Repositories\\IMissionTemplateRepository.cs",
-              "RelativeDocumentMoniker": "..\\Task.Application\\Interfaces\\Repositories\\IMissionTemplateRepository.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Application\\Interfaces\\Repositories\\IMissionTemplateRepository.cs",
-              "RelativeToolTip": "..\\Task.Application\\Interfaces\\Repositories\\IMissionTemplateRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:38:25.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserMissionConfiguration.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Infrastructure\\Persistence\\Configurations\\UserMissionConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\Task.Infrastructure\\Persistence\\Configurations\\UserMissionConfiguration.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Infrastructure\\Persistence\\Configurations\\UserMissionConfiguration.cs",
-              "RelativeToolTip": "..\\Task.Infrastructure\\Persistence\\Configurations\\UserMissionConfiguration.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwDEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:34:39.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MissionTemplateConfiguration.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Infrastructure\\Persistence\\Configurations\\MissionTemplateConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\Task.Infrastructure\\Persistence\\Configurations\\MissionTemplateConfiguration.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Infrastructure\\Persistence\\Configurations\\MissionTemplateConfiguration.cs*",
-              "RelativeToolTip": "..\\Task.Infrastructure\\Persistence\\Configurations\\MissionTemplateConfiguration.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:33:58.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "..\\Task.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "..\\Task.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:30:14.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\App\\Disa-App\\Task.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "..\\Task.Presentation\\Program.cs",
               "ToolTip": "D:\\App\\Disa-App\\Task.Presentation\\Program.cs",
               "RelativeToolTip": "..\\Task.Presentation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:25:00.407Z",
+              "WhenOpened": "2026-07-02T07:05:11.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\Task.Presentation\\appsettings.json",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Presentation\\appsettings.json",
-              "RelativeToolTip": "..\\Task.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-02T03:24:19.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TaskDbContext.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Infrastructure\\Persistence\\TaskDbContext.cs",
-              "RelativeDocumentMoniker": "..\\Task.Infrastructure\\Persistence\\TaskDbContext.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Infrastructure\\Persistence\\TaskDbContext.cs*",
-              "RelativeToolTip": "..\\Task.Infrastructure\\Persistence\\TaskDbContext.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MissionSubmissionController.cs",
+              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Presentation\\Controllers\\MissionSubmissionController.cs",
+              "RelativeDocumentMoniker": "..\\Task.Presentation\\Controllers\\MissionSubmissionController.cs",
+              "ToolTip": "D:\\App\\Disa-App\\Task.Presentation\\Controllers\\MissionSubmissionController.cs",
+              "RelativeToolTip": "..\\Task.Presentation\\Controllers\\MissionSubmissionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:12:10.63Z",
+              "WhenOpened": "2026-07-02T07:04:52.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MissionEvidence.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Domain\\Entities\\MissionEvidence.cs",
-              "RelativeDocumentMoniker": "..\\Task.Domain\\Entities\\MissionEvidence.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Domain\\Entities\\MissionEvidence.cs*",
-              "RelativeToolTip": "..\\Task.Domain\\Entities\\MissionEvidence.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:09:48.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MissionSubmission.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Domain\\Entities\\MissionSubmission.cs",
-              "RelativeDocumentMoniker": "..\\Task.Domain\\Entities\\MissionSubmission.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Domain\\Entities\\MissionSubmission.cs*",
-              "RelativeToolTip": "..\\Task.Domain\\Entities\\MissionSubmission.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:09:03.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "VerificationStatus.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Domain\\Enums\\VerificationStatus.cs",
-              "RelativeDocumentMoniker": "..\\Task.Domain\\Enums\\VerificationStatus.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Domain\\Enums\\VerificationStatus.cs*",
-              "RelativeToolTip": "..\\Task.Domain\\Enums\\VerificationStatus.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:08:03.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "EvidenceType.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Domain\\Enums\\EvidenceType.cs",
-              "RelativeDocumentMoniker": "..\\Task.Domain\\Enums\\EvidenceType.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Domain\\Enums\\EvidenceType.cs*",
-              "RelativeToolTip": "..\\Task.Domain\\Enums\\EvidenceType.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:07:12.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 3,
               "Title": "MissionStatus.cs",
               "DocumentMoniker": "D:\\App\\Disa-App\\Task.Domain\\Enums\\MissionStatus.cs",
               "RelativeDocumentMoniker": "..\\Task.Domain\\Enums\\MissionStatus.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Domain\\Enums\\MissionStatus.cs*",
-              "RelativeToolTip": "..\\Task.Domain\\Enums\\MissionStatus.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "ToolTip": "D:\\App\\Disa-App\\Task.Domain\\Enums\\MissionStatus.cs",
+              "RelativeToolTip": "..\\Task.Domain\\Enums\\MissionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:03:08.363Z",
+              "WhenOpened": "2026-07-02T07:04:07.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserMission.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Domain\\Entities\\UserMission.cs",
-              "RelativeDocumentMoniker": "..\\Task.Domain\\Entities\\UserMission.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Domain\\Entities\\UserMission.cs*",
-              "RelativeToolTip": "..\\Task.Domain\\Entities\\UserMission.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAA2wCcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Infrastructure\\Services\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "..\\Task.Infrastructure\\Services\\FileStorageService.cs",
+              "ToolTip": "D:\\App\\Disa-App\\Task.Infrastructure\\Services\\FileStorageService.cs",
+              "RelativeToolTip": "..\\Task.Infrastructure\\Services\\FileStorageService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T03:02:46.792Z",
+              "WhenOpened": "2026-07-02T07:01:25.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MissionType.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Domain\\Enums\\MissionType.cs",
-              "RelativeDocumentMoniker": "..\\Task.Domain\\Enums\\MissionType.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Domain\\Enums\\MissionType.cs*",
-              "RelativeToolTip": "..\\Task.Domain\\Enums\\MissionType.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "IFileStorageService.cs",
+              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Application\\Interfaces\\Services\\IFileStorageService.cs",
+              "RelativeDocumentMoniker": "..\\Task.Application\\Interfaces\\Services\\IFileStorageService.cs",
+              "ToolTip": "D:\\App\\Disa-App\\Task.Application\\Interfaces\\Services\\IFileStorageService.cs",
+              "RelativeToolTip": "..\\Task.Application\\Interfaces\\Services\\IFileStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T02:56:45.206Z",
+              "WhenOpened": "2026-07-02T07:01:02.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "MissionTemplate.cs",
-              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Domain\\Entities\\MissionTemplate.cs",
-              "RelativeDocumentMoniker": "..\\Task.Domain\\Entities\\MissionTemplate.cs",
-              "ToolTip": "D:\\App\\Disa-App\\Task.Domain\\Entities\\MissionTemplate.cs*",
-              "RelativeToolTip": "..\\Task.Domain\\Entities\\MissionTemplate.cs*",
-              "ViewState": "AgIAABoAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\Task.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\App\\Disa-App\\Task.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\Task.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T02:56:31.996Z",
+              "WhenOpened": "2026-07-02T06:55:51.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissionSubmissionService.cs",
+              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Application\\Services\\MissionSubmissionService.cs",
+              "RelativeDocumentMoniker": "..\\Task.Application\\Services\\MissionSubmissionService.cs",
+              "ToolTip": "D:\\App\\Disa-App\\Task.Application\\Services\\MissionSubmissionService.cs",
+              "RelativeToolTip": "..\\Task.Application\\Services\\MissionSubmissionService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T06:34:36.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MissionTemplateService.cs",
+              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Application\\Services\\MissionTemplateService.cs",
+              "RelativeDocumentMoniker": "..\\Task.Application\\Services\\MissionTemplateService.cs",
+              "ToolTip": "D:\\App\\Disa-App\\Task.Application\\Services\\MissionTemplateService.cs",
+              "RelativeToolTip": "..\\Task.Application\\Services\\MissionTemplateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T06:44:32.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserMissionRepository.cs",
+              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Application\\Interfaces\\Repositories\\IUserMissionRepository.cs",
+              "RelativeDocumentMoniker": "..\\Task.Application\\Interfaces\\Repositories\\IUserMissionRepository.cs",
+              "ToolTip": "D:\\App\\Disa-App\\Task.Application\\Interfaces\\Repositories\\IUserMissionRepository.cs",
+              "RelativeToolTip": "..\\Task.Application\\Interfaces\\Repositories\\IUserMissionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T06:45:17.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMissionSubmissionService.cs",
+              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Application\\Interfaces\\Services\\IMissionSubmissionService.cs",
+              "RelativeDocumentMoniker": "..\\Task.Application\\Interfaces\\Services\\IMissionSubmissionService.cs",
+              "ToolTip": "D:\\App\\Disa-App\\Task.Application\\Interfaces\\Services\\IMissionSubmissionService.cs",
+              "RelativeToolTip": "..\\Task.Application\\Interfaces\\Services\\IMissionSubmissionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T06:42:12.08Z",
               "EditorCaption": ""
             }
           ]

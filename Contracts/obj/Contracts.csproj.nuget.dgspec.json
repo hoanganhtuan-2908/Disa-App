@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EXE101\\Contracts\\Contracts.csproj": {}
+    "D:\\App\\Disa-App\\Contracts\\Contracts.csproj": {}
   },
   "projects": {
-    "D:\\EXE101\\Contracts\\Contracts.csproj": {
+    "D:\\App\\Disa-App\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EXE101\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "D:\\App\\Disa-App\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "D:\\EXE101\\Contracts\\Contracts.csproj",
+        "projectPath": "D:\\App\\Disa-App\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\HOANG ANH TUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\EXE101\\Contracts\\obj\\",
+        "outputPath": "D:\\App\\Disa-App\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

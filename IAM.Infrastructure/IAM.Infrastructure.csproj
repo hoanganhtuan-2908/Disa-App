@@ -7,10 +7,18 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Configurations\" />
-    <Folder Include="ExternalServices\" />
-    <Folder Include="DependencyInjection\" />
-    <Folder Include="IAM.Infrastructure\" />
+    <Compile Remove="Configurations\**" />
+    <Compile Remove="DependencyInjection\**" />
+    <Compile Remove="ExternalServices\**" />
+    <Compile Remove="IAM.Infrastructure\**" />
+    <EmbeddedResource Remove="Configurations\**" />
+    <EmbeddedResource Remove="DependencyInjection\**" />
+    <EmbeddedResource Remove="ExternalServices\**" />
+    <EmbeddedResource Remove="IAM.Infrastructure\**" />
+    <None Remove="Configurations\**" />
+    <None Remove="DependencyInjection\**" />
+    <None Remove="ExternalServices\**" />
+    <None Remove="IAM.Infrastructure\**" />
   </ItemGroup>
 
   <ItemGroup>

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EXE101\\AITour.Domain\\AITour.Domain.csproj",
+      "projectUniqueName": "D:\\App\\Disa-App\\AITour.Domain\\AITour.Domain.csproj",
       "projectName": "AITour.Domain",
-      "projectPath": "D:\\EXE101\\AITour.Domain\\AITour.Domain.csproj",
+      "projectPath": "D:\\App\\Disa-App\\AITour.Domain\\AITour.Domain.csproj",
       "packagesPath": "C:\\Users\\HOANG ANH TUAN\\.nuget\\packages\\",
-      "outputPath": "D:\\EXE101\\AITour.Domain\\obj\\",
+      "outputPath": "D:\\App\\Disa-App\\AITour.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

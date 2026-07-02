@@ -1,17 +1,92 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EXE101\\Task.Presentation\\Task.Presentation.csproj": {}
+    "D:\\App\\Disa-App\\Task.Presentation\\Task.Presentation.csproj": {}
   },
   "projects": {
-    "D:\\EXE101\\Task.Presentation\\Task.Presentation.csproj": {
+    "D:\\App\\Disa-App\\Task.Application\\Task.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EXE101\\Task.Presentation\\Task.Presentation.csproj",
-        "projectName": "Task.Presentation",
-        "projectPath": "D:\\EXE101\\Task.Presentation\\Task.Presentation.csproj",
+        "projectUniqueName": "D:\\App\\Disa-App\\Task.Application\\Task.Application.csproj",
+        "projectName": "Task.Application",
+        "projectPath": "D:\\App\\Disa-App\\Task.Application\\Task.Application.csproj",
         "packagesPath": "C:\\Users\\HOANG ANH TUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\EXE101\\Task.Presentation\\obj\\",
+        "outputPath": "D:\\App\\Disa-App\\Task.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HOANG ANH TUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\App\\Disa-App\\Task.Domain\\Task.Domain.csproj": {
+                "projectPath": "D:\\App\\Disa-App\\Task.Domain\\Task.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.3.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\App\\Disa-App\\Task.Domain\\Task.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\App\\Disa-App\\Task.Domain\\Task.Domain.csproj",
+        "projectName": "Task.Domain",
+        "projectPath": "D:\\App\\Disa-App\\Task.Domain\\Task.Domain.csproj",
+        "packagesPath": "C:\\Users\\HOANG ANH TUAN\\.nuget\\packages\\",
+        "outputPath": "D:\\App\\Disa-App\\Task.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,6 +107,161 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\App\\Disa-App\\Task.Infrastructure\\Task.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\App\\Disa-App\\Task.Infrastructure\\Task.Infrastructure.csproj",
+        "projectName": "Task.Infrastructure",
+        "projectPath": "D:\\App\\Disa-App\\Task.Infrastructure\\Task.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\HOANG ANH TUAN\\.nuget\\packages\\",
+        "outputPath": "D:\\App\\Disa-App\\Task.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HOANG ANH TUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\App\\Disa-App\\Task.Application\\Task.Application.csproj": {
+                "projectPath": "D:\\App\\Disa-App\\Task.Application\\Task.Application.csproj"
+              },
+              "D:\\App\\Disa-App\\Task.Domain\\Task.Domain.csproj": {
+                "projectPath": "D:\\App\\Disa-App\\Task.Domain\\Task.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[10.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\App\\Disa-App\\Task.Presentation\\Task.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\App\\Disa-App\\Task.Presentation\\Task.Presentation.csproj",
+        "projectName": "Task.Presentation",
+        "projectPath": "D:\\App\\Disa-App\\Task.Presentation\\Task.Presentation.csproj",
+        "packagesPath": "C:\\Users\\HOANG ANH TUAN\\.nuget\\packages\\",
+        "outputPath": "D:\\App\\Disa-App\\Task.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HOANG ANH TUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\App\\Disa-App\\Task.Infrastructure\\Task.Infrastructure.csproj": {
+                "projectPath": "D:\\App\\Disa-App\\Task.Infrastructure\\Task.Infrastructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
