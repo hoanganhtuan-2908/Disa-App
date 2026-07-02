@@ -1,87 +1,108 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\EXE101\\Disa\\",
+  "WorkspaceRootPath": "D:\\App\\Disa-App\\Disa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79991F52-1F61-4647-982B-B5CFFA2E67AF}|..\\IAMService\\IAM.Presentation.csproj|d:\\exe101\\iamservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DFEE9D-F630-4B3A-8D88-554C21822302}|..\\IAM.Domain\\IAM.Domain.csproj|d:\\app\\disa-app\\iam.domain\\iam.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79991F52-1F61-4647-982B-B5CFFA2E67AF}|..\\IAMService\\IAM.Presentation.csproj|d:\\exe101\\iamservice\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01367758-CE10-4149-A235-456A22DD9CE3}|..\\IAM.Application\\IAM.Application.csproj|d:\\app\\disa-app\\iam.application\\iam.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8216B7D7-5ED3-4E5D-ABB9-2F08B8AFBAC5}|..\\IAM.Infrastructure\\IAM.Infrastructure.csproj|d:\\exe101\\iam.infrastructure\\data\\entities\\iamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8216B7D7-5ED3-4E5D-ABB9-2F08B8AFBAC5}|..\\IAM.Infrastructure\\IAM.Infrastructure.csproj|d:\\app\\disa-app\\iam.infrastructure\\iam.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79991F52-1F61-4647-982B-B5CFFA2E67AF}|..\\IAMService\\IAM.Presentation.csproj|d:\\exe101\\iamservice\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDF6B251-047C-4137-93C8-FE4205EC7DED}|..\\Task.Presentation\\Task.Presentation.csproj|d:\\app\\disa-app\\task.presentation\\task.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01367758-CE10-4149-A235-456A22DD9CE3}|..\\IAM.Application\\IAM.Application.csproj|d:\\exe101\\iam.application\\dtos\\logoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8542FB2-F07C-4C5B-8227-2B55E782C83F}|..\\Task.Domain\\Task.Domain.csproj|d:\\app\\disa-app\\task.domain\\task.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8216B7D7-5ED3-4E5D-ABB9-2F08B8AFBAC5}|..\\IAM.Infrastructure\\IAM.Infrastructure.csproj|d:\\exe101\\iam.infrastructure\\data\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F7DDBD3-D15A-44C7-8B04-F239EE9311B1}|..\\Task.Application\\Task.Application.csproj|d:\\app\\disa-app\\task.application\\task.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8216B7D7-5ED3-4E5D-ABB9-2F08B8AFBAC5}|..\\IAM.Infrastructure\\IAM.Infrastructure.csproj|d:\\exe101\\iam.infrastructure\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24C52121-4B51-4B7B-A3E2-24B3FCD0135B}|..\\Task.Infrastructure\\Task.Infrastructure.csproj|d:\\app\\disa-app\\task.infrastructure\\task.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8216B7D7-5ED3-4E5D-ABB9-2F08B8AFBAC5}|..\\IAM.Infrastructure\\IAM.Infrastructure.csproj|d:\\exe101\\iam.infrastructure\\data\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAMService\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01367758-CE10-4149-A235-456A22DD9CE3}|..\\IAM.Application\\IAM.Application.csproj|d:\\exe101\\iam.application\\dtos\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\Permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01367758-CE10-4149-A235-456A22DD9CE3}|..\\IAM.Application\\IAM.Application.csproj|d:\\exe101\\iam.application\\dtos\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAMService\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01367758-CE10-4149-A235-456A22DD9CE3}|..\\IAM.Application\\IAM.Application.csproj|d:\\exe101\\iam.application\\dtos\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Application\\DTOs\\ResetPasswordRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01367758-CE10-4149-A235-456A22DD9CE3}|..\\IAM.Application\\IAM.Application.csproj|d:\\exe101\\iam.application\\dtos\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAMService\\Controllers\\ManagerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01367758-CE10-4149-A235-456A22DD9CE3}|..\\IAM.Application\\IAM.Application.csproj|d:\\exe101\\iam.application\\dtos\\updatecustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\IAMDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79991F52-1F61-4647-982B-B5CFFA2E67AF}|..\\IAMService\\IAM.Presentation.csproj|d:\\exe101\\iamservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01367758-CE10-4149-A235-456A22DD9CE3}|..\\IAM.Application\\IAM.Application.csproj|d:\\exe101\\iam.application\\dtos\\createmanagerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\RefreshToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01367758-CE10-4149-A235-456A22DD9CE3}|..\\IAM.Application\\IAM.Application.csproj|d:\\exe101\\iam.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Application\\DTOs\\LogoutRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01367758-CE10-4149-A235-456A22DD9CE3}|..\\IAM.Application\\IAM.Application.csproj|d:\\exe101\\iam.application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Application\\DTOs\\ForgotPasswordRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01367758-CE10-4149-A235-456A22DD9CE3}|..\\IAM.Application\\IAM.Application.csproj|d:\\exe101\\iam.application\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Application\\DTOs\\ChangePasswordRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01367758-CE10-4149-A235-456A22DD9CE3}|..\\IAM.Application\\IAM.Application.csproj|d:\\exe101\\iam.application\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Application\\DTOs\\RefreshTokenRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8216B7D7-5ED3-4E5D-ABB9-2F08B8AFBAC5}|..\\IAM.Infrastructure\\IAM.Infrastructure.csproj|d:\\exe101\\iam.infrastructure\\data\\entities\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Application\\DTOs\\UpdateCustomerRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79991F52-1F61-4647-982B-B5CFFA2E67AF}|..\\IAMService\\IAM.Presentation.csproj|d:\\exe101\\iamservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Application\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8216B7D7-5ED3-4E5D-ABB9-2F08B8AFBAC5}|..\\IAM.Infrastructure\\IAM.Infrastructure.csproj|d:\\exe101\\iam.infrastructure\\security\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAMService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8216B7D7-5ED3-4E5D-ABB9-2F08B8AFBAC5}|..\\IAM.Infrastructure\\IAM.Infrastructure.csproj|d:\\exe101\\iam.infrastructure\\data\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Application\\DTOs\\CreateManagerRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01367758-CE10-4149-A235-456A22DD9CE3}|..\\IAM.Application\\IAM.Application.csproj|d:\\exe101\\iam.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Application\\DTOs\\RegisterRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01367758-CE10-4149-A235-456A22DD9CE3}|..\\IAM.Application\\IAM.Application.csproj|d:\\exe101\\iam.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Application\\DTOs\\LoginRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79991F52-1F61-4647-982B-B5CFFA2E67AF}|..\\IAMService\\IAM.Presentation.csproj|d:\\exe101\\iamservice\\iam.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Application\\DTOs\\LoginResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8216B7D7-5ED3-4E5D-ABB9-2F08B8AFBAC5}|..\\IAM.Infrastructure\\IAM.Infrastructure.csproj|d:\\exe101\\iam.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAMService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Infrastructure\\Security\\JwtTokenGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Application\\Interfaces\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Application\\Interfaces\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAM.Infrastructure\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EXE101\\IAMService\\IAM.Presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -96,347 +117,417 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAMService\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "..\\IAMService\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\EXE101\\IAMService\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "..\\IAMService\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAsBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T06:33:40.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Permission.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\Permission.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Infrastructure\\Data\\Entities\\Permission.cs",
-              "ToolTip": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\Permission.cs",
-              "RelativeToolTip": "..\\IAM.Infrastructure\\Data\\Entities\\Permission.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T08:33:22.639Z",
+              "Title": "IAM.Domain",
+              "DocumentMoniker": "D:\\App\\Disa-App\\IAM.Domain\\IAM.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\IAM.Domain\\IAM.Domain.csproj",
+              "ToolTip": "D:\\App\\Disa-App\\IAM.Domain\\IAM.Domain.csproj",
+              "RelativeToolTip": "..\\IAM.Domain\\IAM.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-02T01:13:24.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAMService\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "..\\IAMService\\Controllers\\AdminController.cs",
-              "ToolTip": "D:\\EXE101\\IAMService\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "..\\IAMService\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwCIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T09:26:16.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ResetPasswordRequest.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\ResetPasswordRequest.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Application\\DTOs\\ResetPasswordRequest.cs",
-              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\ResetPasswordRequest.cs",
-              "RelativeToolTip": "..\\IAM.Application\\DTOs\\ResetPasswordRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T09:42:22.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ManagerController.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAMService\\Controllers\\ManagerController.cs",
-              "RelativeDocumentMoniker": "..\\IAMService\\Controllers\\ManagerController.cs",
-              "ToolTip": "D:\\EXE101\\IAMService\\Controllers\\ManagerController.cs",
-              "RelativeToolTip": "..\\IAMService\\Controllers\\ManagerController.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAwwJQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T09:26:46.437Z",
+              "Title": "IAM.Application",
+              "DocumentMoniker": "D:\\App\\Disa-App\\IAM.Application\\IAM.Application.csproj",
+              "RelativeDocumentMoniker": "..\\IAM.Application\\IAM.Application.csproj",
+              "ToolTip": "D:\\App\\Disa-App\\IAM.Application\\IAM.Application.csproj",
+              "RelativeToolTip": "..\\IAM.Application\\IAM.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-02T01:13:24.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IAMDbContext.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\IAMDbContext.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Infrastructure\\Data\\Entities\\IAMDbContext.cs",
-              "ToolTip": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\IAMDbContext.cs",
-              "RelativeToolTip": "..\\IAM.Infrastructure\\Data\\Entities\\IAMDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T02:51:24.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Infrastructure\\Data\\Entities\\User.cs",
-              "ToolTip": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\User.cs",
-              "RelativeToolTip": "..\\IAM.Infrastructure\\Data\\Entities\\User.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T06:46:35.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RefreshToken.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\RefreshToken.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Infrastructure\\Data\\Entities\\RefreshToken.cs",
-              "ToolTip": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\RefreshToken.cs",
-              "RelativeToolTip": "..\\IAM.Infrastructure\\Data\\Entities\\RefreshToken.cs",
+              "Title": "IAM.Infrastructure",
+              "DocumentMoniker": "D:\\App\\Disa-App\\IAM.Infrastructure\\IAM.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\IAM.Infrastructure\\IAM.Infrastructure.csproj",
+              "ToolTip": "D:\\App\\Disa-App\\IAM.Infrastructure\\IAM.Infrastructure.csproj",
+              "RelativeToolTip": "..\\IAM.Infrastructure\\IAM.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T06:59:31.803Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-02T01:13:24.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.Presentation",
+              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Presentation\\Task.Presentation.csproj",
+              "RelativeDocumentMoniker": "..\\Task.Presentation\\Task.Presentation.csproj",
+              "ToolTip": "D:\\App\\Disa-App\\Task.Presentation\\Task.Presentation.csproj",
+              "RelativeToolTip": "..\\Task.Presentation\\Task.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-02T01:13:24.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LogoutRequest.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\LogoutRequest.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Application\\DTOs\\LogoutRequest.cs",
-              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\LogoutRequest.cs",
-              "RelativeToolTip": "..\\IAM.Application\\DTOs\\LogoutRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T09:55:00.53Z",
+              "Title": "Task.Domain",
+              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Domain\\Task.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Task.Domain\\Task.Domain.csproj",
+              "ToolTip": "D:\\App\\Disa-App\\Task.Domain\\Task.Domain.csproj",
+              "RelativeToolTip": "..\\Task.Domain\\Task.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-02T01:13:24.754Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task.Application",
+              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Application\\Task.Application.csproj",
+              "RelativeDocumentMoniker": "..\\Task.Application\\Task.Application.csproj",
+              "ToolTip": "D:\\App\\Disa-App\\Task.Application\\Task.Application.csproj",
+              "RelativeToolTip": "..\\Task.Application\\Task.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-02T01:13:24.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.Infrastructure",
+              "DocumentMoniker": "D:\\App\\Disa-App\\Task.Infrastructure\\Task.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Task.Infrastructure\\Task.Infrastructure.csproj",
+              "ToolTip": "D:\\App\\Disa-App\\Task.Infrastructure\\Task.Infrastructure.csproj",
+              "RelativeToolTip": "..\\Task.Infrastructure\\Task.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-02T01:13:23.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAMService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAMService\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\EXE101\\IAMService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAMService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:33:40.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\Permission.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Infrastructure\\Data\\Entities\\Permission.cs",
+              "ToolTip": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\Permission.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Infrastructure\\Data\\Entities\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T08:33:22.639Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ForgotPasswordRequest.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\ForgotPasswordRequest.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Application\\DTOs\\ForgotPasswordRequest.cs",
-              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\ForgotPasswordRequest.cs",
-              "RelativeToolTip": "..\\IAM.Application\\DTOs\\ForgotPasswordRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAABAAAAAAAAAA==",
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAMService\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAMService\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\EXE101\\IAMService\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAMService\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwCIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T09:40:37.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T09:26:16.479Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ChangePasswordRequest.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\ChangePasswordRequest.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Application\\DTOs\\ChangePasswordRequest.cs",
-              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\ChangePasswordRequest.cs",
-              "RelativeToolTip": "..\\IAM.Application\\DTOs\\ChangePasswordRequest.cs",
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\ResetPasswordRequest.cs",
+              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\ResetPasswordRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T09:39:03.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T09:42:22.009Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "RefreshTokenRequest.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\RefreshTokenRequest.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Application\\DTOs\\RefreshTokenRequest.cs",
-              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\RefreshTokenRequest.cs",
-              "RelativeToolTip": "..\\IAM.Application\\DTOs\\RefreshTokenRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAMService\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAMService\\Controllers\\ManagerController.cs",
+              "ToolTip": "D:\\EXE101\\IAMService\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAMService\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAwwJQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T09:36:58.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T09:26:46.437Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "UpdateCustomerRequest.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\UpdateCustomerRequest.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Application\\DTOs\\UpdateCustomerRequest.cs",
-              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\UpdateCustomerRequest.cs",
-              "RelativeToolTip": "..\\IAM.Application\\DTOs\\UpdateCustomerRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "IAMDbContext.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\IAMDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Infrastructure\\Data\\Entities\\IAMDbContext.cs",
+              "ToolTip": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\IAMDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Infrastructure\\Data\\Entities\\IAMDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T09:31:29.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Application\\Services\\AuthService.cs",
-              "ToolTip": "D:\\EXE101\\IAM.Application\\Services\\AuthService.cs",
-              "RelativeToolTip": "..\\IAM.Application\\Services\\AuthService.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAYwDsAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T08:39:51.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T02:51:24.771Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAMService\\Program.cs",
-              "RelativeDocumentMoniker": "..\\IAMService\\Program.cs",
-              "ToolTip": "D:\\EXE101\\IAMService\\Program.cs",
-              "RelativeToolTip": "..\\IAMService\\Program.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAQwAYAAAAgAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Infrastructure\\Data\\Entities\\User.cs",
+              "ToolTip": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Infrastructure\\Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T03:01:10.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T06:46:35.72Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "CreateManagerRequest.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\CreateManagerRequest.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Application\\DTOs\\CreateManagerRequest.cs",
-              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\CreateManagerRequest.cs",
-              "RelativeToolTip": "..\\IAM.Application\\DTOs\\CreateManagerRequest.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAA4AAAAAAAAAA==",
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Infrastructure\\Data\\Entities\\RefreshToken.cs",
+              "ToolTip": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Infrastructure\\Data\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T09:00:15.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T06:59:31.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\RegisterRequest.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Application\\DTOs\\RegisterRequest.cs",
-              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\RegisterRequest.cs",
-              "RelativeToolTip": "..\\IAM.Application\\DTOs\\RegisterRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "LogoutRequest.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\LogoutRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\LogoutRequest.cs",
+              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\LogoutRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\LogoutRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T06:04:27.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T09:55:00.53Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Application\\DTOs\\LoginRequest.cs",
-              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\LoginRequest.cs",
-              "RelativeToolTip": "..\\IAM.Application\\DTOs\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Title": "ForgotPasswordRequest.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\ForgotPasswordRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\ForgotPasswordRequest.cs",
+              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\ForgotPasswordRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\ForgotPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T06:58:57.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T09:40:37.305Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "LoginResponse.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\LoginResponse.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Application\\DTOs\\LoginResponse.cs",
-              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\LoginResponse.cs",
-              "RelativeToolTip": "..\\IAM.Application\\DTOs\\LoginResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\ChangePasswordRequest.cs",
+              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\ChangePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T06:30:43.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T09:39:03.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RefreshTokenRequest.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\RefreshTokenRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\RefreshTokenRequest.cs",
+              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\RefreshTokenRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\RefreshTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T09:36:58.172Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\SeedData.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Infrastructure\\Data\\Entities\\SeedData.cs",
-              "ToolTip": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\SeedData.cs",
-              "RelativeToolTip": "..\\IAM.Infrastructure\\Data\\Entities\\SeedData.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCAAAAAgAAAAAAAAAA==",
+              "Title": "UpdateCustomerRequest.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\UpdateCustomerRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\UpdateCustomerRequest.cs",
+              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\UpdateCustomerRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\UpdateCustomerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T09:20:32.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T09:31:29.723Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Application\\Services\\AuthService.cs",
+              "ToolTip": "D:\\EXE101\\IAM.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwDsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T08:39:51.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAMService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAMService\\Program.cs",
+              "ToolTip": "D:\\EXE101\\IAMService\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAMService\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T03:01:10.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateManagerRequest.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\CreateManagerRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\CreateManagerRequest.cs",
+              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\CreateManagerRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\CreateManagerRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T09:00:15.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\RegisterRequest.cs",
+              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:04:27.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\LoginRequest.cs",
+              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:58:57.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAM.Application\\DTOs\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\LoginResponse.cs",
+              "ToolTip": "D:\\EXE101\\IAM.Application\\DTOs\\LoginResponse.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Application\\DTOs\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:30:43.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\SeedData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Infrastructure\\Data\\Entities\\SeedData.cs",
+              "ToolTip": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\SeedData.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Infrastructure\\Data\\Entities\\SeedData.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T09:20:32.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\EXE101\\IAMService\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\IAMService\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAMService\\appsettings.json",
               "ToolTip": "D:\\EXE101\\IAMService\\appsettings.json",
-              "RelativeToolTip": "..\\IAMService\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAMService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-06-04T06:15:45.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "JwtTokenGenerator.cs",
               "DocumentMoniker": "D:\\EXE101\\IAM.Infrastructure\\Security\\JwtTokenGenerator.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Infrastructure\\Security\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Infrastructure\\Security\\JwtTokenGenerator.cs",
               "ToolTip": "D:\\EXE101\\IAM.Infrastructure\\Security\\JwtTokenGenerator.cs",
-              "RelativeToolTip": "..\\IAM.Infrastructure\\Security\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Infrastructure\\Security\\JwtTokenGenerator.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAgwDUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-04T06:02:46.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "Role.cs",
               "DocumentMoniker": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\Role.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Infrastructure\\Data\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Infrastructure\\Data\\Entities\\Role.cs",
               "ToolTip": "D:\\EXE101\\IAM.Infrastructure\\Data\\Entities\\Role.cs",
-              "RelativeToolTip": "..\\IAM.Infrastructure\\Data\\Entities\\Role.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Infrastructure\\Data\\Entities\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-04T06:59:33.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "D:\\EXE101\\IAM.Application\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Application\\Interfaces\\IAuthService.cs",
               "ToolTip": "D:\\EXE101\\IAM.Application\\Interfaces\\IAuthService.cs",
-              "RelativeToolTip": "..\\IAM.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Application\\Interfaces\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-04T08:38:39.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\EXE101\\IAM.Application\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Application\\Interfaces\\IUserRepository.cs",
               "ToolTip": "D:\\EXE101\\IAM.Application\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "..\\IAM.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Application\\Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-04T02:47:51.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\EXE101\\IAM.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "..\\IAM.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAM.Infrastructure\\Repositories\\UserRepository.cs",
               "ToolTip": "D:\\EXE101\\IAM.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "..\\IAM.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAM.Infrastructure\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-04T02:57:14.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "IAM.Presentation.csproj",
               "DocumentMoniker": "D:\\EXE101\\IAMService\\IAM.Presentation.csproj",
-              "RelativeDocumentMoniker": "..\\IAMService\\IAM.Presentation.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\EXE101\\IAMService\\IAM.Presentation.csproj",
               "ToolTip": "D:\\EXE101\\IAMService\\IAM.Presentation.csproj",
-              "RelativeToolTip": "..\\IAMService\\IAM.Presentation.csproj",
+              "RelativeToolTip": "..\\..\\..\\EXE101\\IAMService\\IAM.Presentation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-04T06:59:40.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T06:59:40.514Z"
             }
           ]
         }
